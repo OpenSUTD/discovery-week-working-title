@@ -1,5 +1,7 @@
-# Discovery Week (Working-Title)
+# Discovery Week (Working Title)
 **Decentralised planning for the Freshmore experience**
+
+Do let us know if you can think of a better name for this event! That's why it's still a working title.
 
 ## What is this?
 SUTD organises 'Discovery Week', an initiative meant to help transition our incoming Freshmores into what SUTD culture and life is like. Last year was planned in a bit of a rush. This year we won't make that same mistake again.
