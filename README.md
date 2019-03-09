@@ -1,4 +1,4 @@
-# Discovery-Week-Working-Title-
+# Discovery Week (Working-Title)
 **Decentralised planning for the Freshmore experience**
 
 ## What is this?
