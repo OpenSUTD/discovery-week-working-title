@@ -12,3 +12,10 @@ Every year Freshmores are bombarded with activities during their first Term here
 We intend to organise this in as decentralised a manner as possible, choosing mostly to maintain the conceptual integrity of what 'Discovery Week' should be like. Namely, to **provide emphasis on personal agency to allow for self-discovery of SUTD's ecosystem**.
 
 You will find that we need many hands to help build up this ecosystem! But fret not, it's really just consolidating what you've been doing for previous year during a protected time to really induct our incoming batches.
+
+Who's Who:
+OpenSUTD: Timothy Liu (<timothy_liu@mymail.sutd.edu.sg>); Joel Huang (<joel_huang@mymail.sutd.edu.sg>)
+
+Open Regulation: Lee Gui An (<guian_lee@mymail.sutd.edu.sg>)
+
+SAC rep coordination: Tay Kai Jin (<kayjin_tay@mymail.sutd.edu.sg>)
