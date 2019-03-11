@@ -13,7 +13,8 @@ We intend to organise this in as decentralised a manner as possible, choosing mo
 
 You will find that we need many hands to help build up this ecosystem! But fret not, it's really just consolidating what you've been doing for previous year during a protected time to really induct our incoming batches.
 
-Who's Who:
+## Who's Who:
+
 OpenSUTD: Timothy Liu (<timothy_liu@mymail.sutd.edu.sg>); Joel Huang (<joel_huang@mymail.sutd.edu.sg>)
 
 Open Regulation: Lee Gui An (<guian_lee@mymail.sutd.edu.sg>)
