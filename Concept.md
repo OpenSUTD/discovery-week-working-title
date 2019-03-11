@@ -132,40 +132,7 @@ Taken from [A novel approach to onboarding](https://blog.hiri.com/a-novel-approa
 
 
 ## Stakeholder Map
-```graphviz
-graph graphname { 
-        Notes [label="Student Notes"]
-        SL [label="Student Life"]
-        CCA [label="Fifth Rows"]
-        Projects [label="Academic Projects"]
-        PP [label="Personal Projects"]
-        Spaces [label="Shared Spaces"]
-		SUTD -- Academics;
-        SUTD -- SL;
-        SUTD -- Spaces;
-        Academics -- Pillars;
-        Pillars -- Projects;
-        Pillars -- Content;
-        Academics -- Research;
-        Research -- DmanD;
-        Research -- LKYCIC;
-        Research -- iTrust;
-        Research -- TLab;
-        Research -- IDC;
-        Research -- DataAnalyticsLab;
-        Academics -- Notes;
-        SL -- Housing;
-        SL -- CCA;
-        SL -- PP;
-        Spaces -- SAC;
-        Spaces -- FabLab;
-        Spaces -- ROOTCove;
-        Spaces -- PillarRooms;
-        Notes -- OpenSUTD;
-        PP -- OpenSUTD;
-        Projects -- OpenSUTD;
-	}
-```
+![StakeholderMap](https://i.imgur.com/BzY3y0K.png)
 *Pillar Rooms meaning Learning Lab (ISTD), ESD Room, ASD Studios*
 
 ! Ensuring alignment with [Open House themes](https://openhouse.sutd.edu.sg/why-sutd/). Key objective to show them the embodiment of the 'why SUTD' statements.
