@@ -38,7 +38,12 @@ In collaboration with Google Cloud, we will be conducting a Cloud Study Jam to i
 
 This will be a half-day workshop intended to introduce students to using Google Cloud Platform (GCP) tools for *data* and *machine-learning* related tasks, and is open to all members of the SUTD community.
 
-At the event we will give you a link for free QwikLabs access. That makes you eligible for additional free access for up to 30 days after you complete live workshop session (we will be going through the first 4 hours of Baseline: Data, ML, AI quest on QwikLabs). Complete all labs in the quest and earn a Google-hosted badge for your online profile, and additional 30 days access to the training platform to compete any labs you want.
+Participants will learn:
+
+* the basics of Google Cloud Platform tools such as Cloud SQL, BigTable, BigQuery for managing databases
+* the basics of using Cloud Datalab and Cloud ML Engine to train machine-learning models
+
+There is no pre-requisite knowledge as this will be a workshop targeted at beginners.
 
 # Session details
 
