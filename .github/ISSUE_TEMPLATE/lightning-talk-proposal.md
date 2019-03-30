@@ -42,3 +42,4 @@ In a few sentences, describe yourself and why you want to hold this lightning ta
 **Logistical Details**
 
 Please us know if you'll need anything other than a microphone and a set of Google slides!
+Please provide us with your e-mail address so we can notify you once your event has been scheduled.
