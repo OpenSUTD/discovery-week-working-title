@@ -1,19 +1,23 @@
 ---
 name: Lightning Talk Proposal
-about: Propose a new lightning talk (10 mins)
-title: "[L-TALK] Title of lightning talk"
-labels: proposal
+about: Propose a lightning talk (10 mins)
+title: "[LT] Title of lightning talk"
+labels: needs-review, proposal
 assignees: Fishbiscuit, tlkh
 
 ---
 
-**Session Title **
+**Session Title**
 
 A title captures the intent of the session and is attention-grabbing.
+
+
 
 **Abstract**
 
 Also include a short description of the highlights of your session one or two sentences.
+
+
 
 **Presenter**
 
@@ -25,11 +29,15 @@ Also include a short description of the highlights of your session one or two se
 
 In a few sentences, describe yourself and why you want to hold this lightning talk
 
+
+
 **Intent/Takeaway**
 
 - Share with us what you hope your participants will take away from this session (Participants will learn ...)
 - Share with us if there are any prerequisites to make the most of this session (Participants will require knowledge of ...)
 - *italicise* the specific skills/ takeaways that are quantifiable to help us create a concept map of the sessions we are offering for our incoming Freshmores
+
+
 
 **Logistical Details**
 
