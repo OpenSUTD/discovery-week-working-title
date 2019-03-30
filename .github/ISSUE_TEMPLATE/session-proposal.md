@@ -42,3 +42,4 @@ Share with us the background of your facilitators to provide some context for yo
 **Logistical details**
 
 Help us with the overall resourcing our events. This will give us cue as to how to budget for the event and if there are further constraints we must consider.
+Please provide us with your e-mail address so we can notify you once your event has been scheduled.
