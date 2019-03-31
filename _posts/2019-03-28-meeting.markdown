@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Discussion with Pillar staff"
+date:   2019-03-28
+categories: meeting minutes
+---
+
+We’re looking for support from the pillars to
+
+1. recommend profs/ seniors to a human library session on W1,Thurs (23/5) concerned about the specific logistics of making this happen. Suggested having think tanks that are focused with profs from specific pillars/ topics for easier management.
+2. contribute speakers for lightning talks, could be PhDs, profs that would like to share interesting projects etc on W2,Wednesday (29/5) with a focus on the SUTD experience that excite people
+3. organise an experential session on what a pillar lesson might be like, subject to each pillar’s availability on the recommendations of the pillar reps. for W2, Wednesday (29/5)
+EPD: what lab sessions might be like at ARMs
+ESD: thumbles/ MSO game/ using R
+ISTD: lab session, maybe adapt popular sessions
+ASD: having them join an existing SUTDio session?
+Communication method:
+I’m asking them to let us take the lead in reaching out to the profs as they are generally more responsive towards students and i don’t want it to be a pillar head top-down thing.
+So I’ll want to e-mail the pillars, perhaps with a short note from the pillar heads on how this might be relevant for them and then supplement with a more targeted approach to specific profs that they recommend.
+
+Staff expressed concerns about
+- Space available to host their pillar activities during the allocated time slots
+- The expected number of faculty required
+
+ESD: concern about space available, Thumbles is held at the staffroom area and can't accomodate many people
+ISTD: several focus tracks make it hard to present a representative picture in just one experential session
+ASD: agree that having students simply visit the studios wouldn't be helpful as ASD students would be busy working and one cannot simply jump into the design process without sufficient context 
+
+To address the pillars’ concerns, please include the following into the overall plan
+- Proposed space (for each pillar) – you can consider this point as an estimate for the possible number of sessions that can be conducted during the same time slot
+- Proposed number of sessions (for each pillar)
+- Proposed number of faculty (for each pillar)
+
+
+
+FAQ:
+What’s a human library?
+Have speakers act as ‘books’ and you can ‘borrow’ their time. Execution-wise, have students ‘borrow’ the books for a fixed timeslot and rotate every hour. Possibly just have the professors at their office/ location of their choice and students can come by.
+
+What are students concerned with?
+As a freshmore people don’t have enough information of what they learn at pillars.
+As seniors we hope that we can provide a fair representation of the pillars without being intimidating
+
+What is openSUTD?
+
+open regulation - students can easily navigate the ecosystem
+open notes - students can tell ahead of time what to expect in courses and have better decisions as to what to choose/moderate commitment to fifth rows etc
+projects - inter-batch collaboration and inspire freshmores
+fifth row guides - for those that want to start something
