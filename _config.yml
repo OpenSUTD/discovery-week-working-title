@@ -21,8 +21,8 @@ baseurl: '/discovery-week-working-title'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Name
-  url: http://localhost:4000
+  name: OpenSUTD
+  url: https://github.com/OpenSUTD
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:
