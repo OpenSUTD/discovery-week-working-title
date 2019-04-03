@@ -44,7 +44,7 @@ navigation:
   url: proposal_details/
   internal: true
 - text: Site repo
-  url: https://github.com/Fishbiscuit/Discovery-Week-Project-Site-Test
+  url: https://github.com/OpenSUTD/discovery-week-working-title
   internal: false
 
 # Repo list
