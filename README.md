@@ -1,19 +1,46 @@
 # Discovery Week (Working Title)
 **Decentralised planning for the Freshmore experience**
 
+Check out [this page](https://open.sutd.dev/discovery-week-working-title/) for all the in depth details. You will even find out meeting minutes there! (it's under "Posts")
+
 Do let us know if you can think of a better name for this event! That's why it's still a working title.
 
 ## What is this?
-SUTD organises 'Discovery Week', an initiative meant to help transition our incoming Freshmores into what SUTD culture and life is like. Last year was planned in a bit of a rush. This year we won't make that same mistake again.
+Discovery Week is a 3 week long introduction to the SUTD community. It will last from 22nd May - 7 June 2019. The event is hosted on Eventyay, powered by an Open Source Event server.
 
-Every year Freshmores are bombarded with activities during their first Term here. This is an effort to help give them a concept of what would be interesting to them personally and how to take part in these activities.
+It is currently a working title because the name is still in the midst of being decided. Afterall, it’s a 3 week event and no longer just one week!
 
-## How to help
-We intend to organise this in as decentralised a manner as possible, choosing mostly to maintain the conceptual integrity of what 'Discovery Week' should be like. Namely, to **provide emphasis on personal agency to allow for self-discovery of SUTD's ecosystem**.
+Discovery Week is organised by the team behind OpenSUTD.
 
-You will find that we need many hands to help build up this ecosystem! But fret not, it's really just consolidating what you've been doing for previous year during a protected time to really induct our incoming batches.
+OpenSUTD is modelled after the idea of an Open Organisation, and we have community standards for all members to abide by in order to ensure a good enviroment for members to learn and contribute effectively.
+
+## Contributing
+Details are [here](https://open.sutd.dev/discovery-week-working-title/contributing/).
+In general the workflow is:
+1. Submit a proposal through Github Issues on our master repository
+2. We will reply to your issue and review it.
+3. Once it is reviewed and cleared, you will get a notification.
+4. If you’re proposing a session for the event, please proceed to Eventyay to submit your proposal. This is done to collate your details and to get ready to schedule you for the event. Otherwise, if you’re making a suggestion for improvement, the workflow will diverge and tailor to the idea given.
+
+
+## Timeline
+This is to cater to Fifth row leaders when they are planning. The detailed proposal is [here](https://open.sutd.dev/discovery-week-working-title/proposal_details/)
+
+|Week|Activities|
+|--|--|
+|20 - 24 May|Thurs: Human library, HG event|
+||Fri: Fifth row sessions (after class hours)|
+||Mon is public holiday|
+|24 - 31 May|Mon-Fri: Fifth row sessions available (after class hours)|
+||Weds: Lightning talks, pillar sessions, lab visit|
+||Thurs: Housing event|
+|3 - 7 June|Mon-Fri: Fifth row sessions available (after class hours)|
+||Weds is public holiday, makeup class on Friday|
+
 
 ## Who's Who:
+
+Discovery Week details: Hum Qing Ze (<qingze_hum@mymail.sutd.edu.sg>)
 
 OpenSUTD: Timothy Liu (<timothy_liu@mymail.sutd.edu.sg>); Joel Huang (<joel_huang@mymail.sutd.edu.sg>)
 
