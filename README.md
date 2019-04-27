@@ -40,10 +40,10 @@ This is to cater to Fifth row leaders when they are planning. The detailed propo
 
 ## Who's Who:
 
-Discovery Week details: Hum Qing Ze ([email](qingze_hum@mymail.sutd.edu.sg))
+Discovery Week details: Hum Qing Ze ([email](mailto:qingze_hum@mymail.sutd.edu.sg))
 
-OpenSUTD: Timothy Liu ([email](timothy_liu@mymail.sutd.edu.sg)); Joel Huang ([email](joel_huang@mymail.sutd.edu.sg))
+OpenSUTD: Timothy Liu ([email](mailto:timothy_liu@mymail.sutd.edu.sg)); Joel Huang ([email](mailto:joel_huang@mymail.sutd.edu.sg))
 
-Open Regulation: Lee Gui An ([email](guian_lee@mymail.sutd.edu.sg))
+Open Regulation: Lee Gui An ([email](mailto:guian_lee@mymail.sutd.edu.sg))
 
-SAC rep coordination: Tay Kai Jin ([email](kayjin_tay@mymail.sutd.edu.sg))
+SAC rep coordination: Tay Kai Jin ([email](mailto:kayjin_tay@mymail.sutd.edu.sg))
