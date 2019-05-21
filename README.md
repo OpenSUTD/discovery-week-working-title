@@ -6,7 +6,7 @@ Check out [this page](https://open.sutd.dev/discovery-week-working-title/) for a
 Do let us know if you can think of a better name for this event! That's why it's still a working title.
 
 ## What is this?
-Discovery Week is a 3 week long introduction to the SUTD community. It will last from 22nd May - 7 June 2019. The event is hosted on Eventyay, powered by an Open Source Event server.
+Discovery Week is a 3 week long introduction to the SUTD community. It will last from 21st May - 7 June 2019.
 
 It is currently a working title because the name is still in the midst of being decided. Afterall, it’s a 3 week event and no longer just one week!
 
