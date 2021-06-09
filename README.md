@@ -15,7 +15,7 @@ DiscoverSUTD is organised by the team behind OpenSUTD.
 OpenSUTD is modelled after the idea of an Open Organisation, and we have community standards for all members to abide by in order to ensure a good enviroment for members to learn and contribute effectively.
 
 ## Contributing
-Details are [here](https://open.sutd.dev/discovery-week-working-title/contributing/).
+Details are [here](https://castlemas.github.io/DiscoverSUTD-2021/contributing/).
 In general the workflow is:
 1. Submit a proposal through Github Issues on our master repository
 2. We will reply to your issue and review it.

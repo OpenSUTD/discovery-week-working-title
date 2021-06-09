@@ -11,7 +11,6 @@ We intend to adhere to these principles:
 
 We'd like to support Fifth Rows in reaching out to the Freshmores but also to help Freshmores make sense of what Fifth Rows suit them best. Specifically through clear communication and categorising our workshops into tracks based on skills taught.
 
-*Talk to your Cluster Reps or catch us during the Fifth Row Forum on 10th April 2019*
 
 **Human Library**
 
@@ -24,6 +23,12 @@ Have speakers act as ‘books’ and you can ‘borrow’ their time. Execution-
 
 Experential session to expose to students what Pillar life will be like. Focus on a skill or lesson methodology that is representative of what we do once we enter our Pillars.
 
+**Housing Sessions**
+
+All the information you need about Housing, get to know your House Guardian, and your friendly neighbours ~
+
 **Supper with Seniors sessions**
 
 Yes you heard that right! We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class. Also we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.
+
+

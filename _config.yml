@@ -9,15 +9,15 @@ collections:
     permalink: /:path/
 
 # Title
-name: Discovery Week (working title)
-subtitle: Project Page for organising Discovery Week
+name: DiscoverSUTD 2021
+subtitle: Project Page for organising DiscoverSUTD
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/discovery-week-working-title'
+baseurl: '/DiscoverSUTD-2021'
 
 # Author/Organization info to be displayed in the templates
 author:

@@ -30,6 +30,6 @@ We will
 3. **Bring together** the larger graduate and research community in the SUTD ecosystem through tours and meet ups.
 4. **Provide** a consistent visual branding throughout the event.
 
-If you're interested in helping in any of these objectives or simply would like to give feedback, please check out the [Contributing](https://fishbiscuit.github.io/Discovery-Week-Project-Site-Test/contributing/) page.
+If you're interested in helping in any of these objectives or simply would like to give feedback, please check out the [Contributing](https://castlemas.github.io/DiscoverSUTD-2021/contributing/) page.
 
 
