@@ -9,7 +9,7 @@ collections:
     permalink: /:path/
 
 # Title
-name: Discovery Week (working title)
+name: Discovery SUTD 2021
 subtitle: Project Page for organising Discovery Week
 
 # When using this template with a project page set the baseurl to '/project-name'
@@ -17,7 +17,7 @@ subtitle: Project Page for organising Discovery Week
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/discovery-week-working-title'
+baseurl: '/DiscoverSUTD-2021'
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -44,15 +44,15 @@ navigation:
   url: proposal_details/
   internal: true
 - text: Site repo
-  url: https://github.com/OpenSUTD/discovery-week-working-title
+  url: https://github.com/castlemas/DiscoverSUTD-2021
   internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: Discovery Week
+- name: DiscoverySUTD 2021
   description: Master Repository
-  url: https://github.com/OpenSUTD/discovery-week-working-title
+  url: https://github.com/castlemas/DiscoverSUTD-2021
 
 # Style Variables
 brand_color: "#2cb34a"
