@@ -35,10 +35,10 @@ We've requested for a budget! Since we're a design school, our efforts need to n
 2. Click on "Get started" under Feedback for OrgComm
 3. Let us know how we can do better!
 
-**I would like to speak for Lightning talks**
+**I would like to speak for Human Library**
 
-So what's a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk)?
-Lightning talks are designed to be short presentations between five and ten minutes long, but are usually capped at five minutes
+So what's Human Library?
+A Human Library allows YOU to borrow "books". These books are real people: faculty, staff, researchers and seniors. When you borrow a book, you sit down with them and have a conversation about their experiences both inside and outside of SUTD.
 1. Go to our [issue](https://github.com/OpenSUTD/discovery-week-working-title/issues/new/choose) templates
-2. Click on "Get started" under Lightning Talk Proposal
+2. Click on "Get started" Human Library Proposal
 3. Let us know your Session Title, a short Abstract, who you are, what participants should take away from your session and if you need any special logistics

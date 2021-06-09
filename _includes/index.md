@@ -1,7 +1,5 @@
 # What is this?
-Discovery Week is a 3 week long introduction to the SUTD community. It will last from 21st May - 7 June 2019.
-
-It is currently a [working title](https://en.wikipedia.org/wiki/Working_title) because the name is still in the midst of being decided. Afterall, it's a 3 week event and no longer just one week!
+Discovery Week is a 3 week long introduction to the SUTD community. It will last from 13 September 2021 - 30 September 2021.
 
 Discovery Week is organised by the team behind [OpenSUTD](https://github.com/OpenSUTD).
 
@@ -34,4 +32,4 @@ We will
 
 If you're interested in helping in any of these objectives or simply would like to give feedback, please check out the [Contributing](https://fishbiscuit.github.io/Discovery-Week-Project-Site-Test/contributing/) page.
 
-The event is hosted on [Eventyay](https://eventyay.com/e/80f9d561/) in true [OpenSUTD](https://github.com/OpenSUTD) spirit.
+

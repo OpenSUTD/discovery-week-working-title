@@ -19,20 +19,11 @@ Have speakers act as ‘books’ and you can ‘borrow’ their time. Execution-
 
 *We need coordinators for this event!*
 
-**Lightning Talks**
-
-Talks that focus on the tangible SUTD experience. Get Freshmores thinking about what you others have done at SUTD and the avenues for it. 
-
-*We need speakers and coordinators for this event!*
-
-**Housing Sessions**
-
-House Guardians will hold an event on the first week of school followed by [Friendzone Singapore](https://www.friendzone.sg/). The emphasis is community building in our Freshmores' new home.
 
 **Pillar Sessions**
 
 Experential session to expose to students what Pillar life will be like. Focus on a skill or lesson methodology that is representative of what we do once we enter our Pillars.
 
-**Supper makan sessions**
+**Supper with Seniors sessions**
 
 Yes you heard that right! We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class. Also we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.

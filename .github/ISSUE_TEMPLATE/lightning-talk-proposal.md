@@ -1,7 +1,7 @@
 ---
-name: Lightning Talk Proposal
-about: Propose a lightning talk (10 mins)
-title: "[LT] Title of lightning talk"
+name: Human Library Proposal
+about: Propose a Story (10 mins)
+title: "[LT] Title of Story"
 labels: needs-review, proposal
 assignees: Fishbiscuit, tlkh
 
@@ -27,7 +27,7 @@ Also include a short description of the highlights of your session one or two se
 
 **Short bio of presenter**
 
-In a few sentences, describe yourself and why you want to hold this lightning talk
+In a few sentences, describe yourself and why you want to hold this Human Library talk
 
 
 
