@@ -1,4 +1,4 @@
-Discovery Week (Working Title)
+DiscoverSUTD 2021
 ===
 Previous planning [document](https://docs.google.com/document/d/1A_bl4-s3VXOBQe-K85AHm5zBOxTaml8Gq43lHRpIMx8/edit#heading=h.w41sy5e44bpr)
 
@@ -8,7 +8,7 @@ Previous planning [document](https://docs.google.com/document/d/1A_bl4-s3VXOBQe-
 Activities within this document are suggestions and if you'd like to put an idea down, feel free to do it!
 If it is being worked on, it will be expressly stated to prevent duplicate work.
 If there's new work being done it will be stated too.
-Also if you have a better name for Discovery Week, please do suggest! It's just a working title|
+|
 
 
 # Concept
@@ -161,3 +161,5 @@ Taken from [A novel approach to onboarding](https://blog.hiri.com/a-novel-approa
 ## Organisation employee orientation efforts:
 1. Public Service Foundation Course (https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?epid=vae3uj66l29irohmc3tpgfolam)
 1. Valve’s employee handbook (https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf) 
+
+
