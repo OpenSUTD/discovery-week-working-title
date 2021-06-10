@@ -38,9 +38,17 @@ This is to cater to Fifth row leaders when they are planning. The detailed propo
 
 
 ## Who's Who:
-__DiscoverSUTD-2021__
+❤ __DiscoverSUTD-2021__  ❤
 
-Emily Law (@jhonbook123), Muhammad Hariz Bin Roslan (@wtvml), Clement Loh (@ClementLohCK), Joseph Low (@Jolow)
+Emily Law ([ Telegram ](https://t.me/jhonbook123)), 
+
+Muhammad Hariz Bin Roslan ([ Telegram ](https://t.me/wtvml)), 
+
+Clement Loh ([ Telegram ](https://t.me/ClementLohCK)), 
+
+Joseph Low ([ Telegram ](https://t.me/Jolow))
+
+
 
 __DiscoverSUTD-2020 Team__
 

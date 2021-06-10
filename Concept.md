@@ -121,8 +121,14 @@ Taken from [A novel approach to onboarding](https://blog.hiri.com/a-novel-approa
 
 
 ---
-# Proposed Activities 2019
-## ! Stakeholder buy-in list
+
+# Review
+
+## Discovery Week 2020
+
+## Discovery Week 2019 
+### Proposed Activities 2019
+###  Stakeholder buy-in list
 1. Housing/HG/RLC for hostel access and booking of spaces
 1. Calendar team that ROOT Communications is trying out
 1. Indivudal research labs for access, tour guiding
@@ -137,12 +143,6 @@ Taken from [A novel approach to onboarding](https://blog.hiri.com/a-novel-approa
     - UROP
     - Hackathons
     `need to shortlist`
-# Review
-
-## Discovery Week 2020
-
-## Discovery Week 2019 
-
 
 
 ## Discovery Week 2018
