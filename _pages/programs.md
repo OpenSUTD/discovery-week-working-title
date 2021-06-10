@@ -30,7 +30,8 @@ All the information you need about Housing, get to know your House Guardian, and
 
 **Supper with Seniors sessions**
 
-Yes you heard that right! We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class. Also we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.
+Yes you heard that right! We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class. Also we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD. 
 
 **AMA session**
 
+Still in doubt?  Don't sleep on it! Join our AskmeAnything (AMA) sessions to get them off your chest. You can expect to chat with our friendly seniors and learn from their ✨ _experiences_ . (Tip: ask them for their favourite foodstall in the canteen)
