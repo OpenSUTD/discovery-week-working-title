@@ -34,4 +34,4 @@ Yes you heard that right! We will be providing supper most days of the week to e
 
 **AMA session**
 
-Still in doubt?  Don't sleep on it! Join our AskmeAnything (AMA) sessions to get them off your chest. You can expect to chat with our friendly seniors and learn from their ✨ _experiences_ . (Tip: ask them for their favourite foodstall in the canteen)
+Still in doubt?  Don't sleep on it! Join our AskmeAnything (AMA) sessions to get them off your chest. You can expect to chat with our friendly seniors and learn from their ✨ _experiences_ ✨ . (Tip: ask them for their favourite foodstall in the canteen)
