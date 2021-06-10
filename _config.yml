@@ -9,8 +9,11 @@ collections:
     permalink: /:path/
 
 # Title
+<<<<<<< HEAD
 name: DiscoverSUTD 2021
 subtitle: Project Page for organising DiscoverSUTD
+=======
+>>>>>>> 0c34a8ebca8cee0c5e011ddee81e756838327a2f
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -44,15 +47,15 @@ navigation:
   url: proposal_details/
   internal: true
 - text: Site repo
-  url: https://github.com/OpenSUTD/discovery-week-working-title
+  url: https://github.com/castlemas/DiscoverSUTD-2021
   internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: Discovery Week
+- name: DiscoverySUTD 2021
   description: Master Repository
-  url: https://github.com/OpenSUTD/discovery-week-working-title
+  url: https://github.com/castlemas/DiscoverSUTD-2021
 
 # Style Variables
 brand_color: "#2cb34a"
