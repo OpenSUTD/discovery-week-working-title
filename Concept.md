@@ -1,6 +1,6 @@
 DiscoverSUTD 2021
 ===
-Previous planning [document](https://docs.google.com/document/d/1A_bl4-s3VXOBQe-K85AHm5zBOxTaml8Gq43lHRpIMx8/edit#heading=h.w41sy5e44bpr)
+Previous planning [document](https://docs.google.com/document/d/1R3vDbL2QLzgfk5rgFNvR9veKKkE80r9CtSYmdqAeu1M/edit#heading=h.eh5cqbmba3eb)
 
 |Disclaimer|
 |---|
@@ -30,14 +30,7 @@ Inspiration:
 **Showcase the potential of UROPs and taking up research projects in SUTD, similar to LCC in an interactive/ experiential manner**
 
 # Planning Parameters
-Discovery Week to **take place in the afternoons within the 1st week of term (i.e. 21 May to 24 May)?** Discover Week may tentatively begin from 2pm onwards however do avoid planning activities on Wednesday (22 May) afternoon and the timeslots for Tuesday as stated below.
-![](https://i.imgur.com/M8bW6aC.png)
 
-Take note of Ramadan and be culturally sensitive
-
-Have a focus on engaging students that are disengaged
-
-Need to disseminate information clearly (especially academic matters) and resources/ opportunities
 
 |Key Information|
 |--|
@@ -63,60 +56,43 @@ Overview of activities
 - Housing Activities
 - Pillar info
 - Human libraries
-- Lightning Talks
-- Bands
+
 
 # Proposed Activities
-## ! Stakeholder buy-in list
-1. Housing/HG/RLC for hostel access and booking of spaces
-1. Calendar team that ROOT Communications is trying out
-1. Indivudal research labs for access, tour guiding
+## ! Stakeholder buy-in list 
+1. Fablab 360 video along with tour guiding
 2. Pillar reps for introduction to pillar life
-3. Bands for open-mic
-4. Location for open-mic (eg. Mont Calzone/ Crooked Cooks)
-5. DSBJ app devs
-6. Candidates for lightning talks
-    - GEXP
-    - ALP
-    - GLP
-    - UROP
-    - Hackathons
-    `need to shortlist`
+3. Candidates for Human library talks, Housing
+    
+
 
 ## Establishing Conceptual Map
 1. User Guide - Gitbook/Github Page/Wiki to explain the program
-2. Demarcate events into 'Levels' based on level of technical difficulty
-3. Static one-stop page to serve as event calendar
-4. Working together with DSBJ app, pending their initial take-up rate and on evaluating their app's roadmap to check for alignment
-5. Using [OpenSUTD](https://opensutd.github.io/OpenSUTD-static-design/) as the go-to conduit into SUTD life
+2. Static one-stop page to serve as event calendar 
+3. Using [OpenSUTD](https://opensutd.github.io/OpenSUTD-static-design/) as the go-to conduit into SUTD life
     - Fifth Row Guides
     - Communication channels for queries
     - Knowledge/skills
     - Contribution guides
     - Proposed wiki format
-7. Badges within the ecosystem so people know who is maintaining what.
+4. Badges within the ecosystem so people know who is maintaining what.
 ![badge](https://forthebadge.com/images/badges/built-with-love.svg) ![badge](https://img.shields.io/badge/OpenSUTD-Core%20Team-red.svg) ![badge](https://img.shields.io/badge/SAC-cluster%20rep-lightgrey.svg)
 
 ## Academics
 1. Plenary session on general Pillar information
-1. Class simulations conducted by actual students
-1. Open Office Tours for Academic Labs
-1. Lightning Talks targeted at sharing students' experiences working on research projects
+1. sharing students' experiences working on research projects
 1. OpenSUTD Notes and Project repository sharing, [NUS example](http://isteps.comp.nus.edu.sg/event/12th-steps/module/CS3217)
 ## Student Life
 1. Housing 
     - Getting to know the facilities that people can use
     - Getting to know people in your floor including seniors
     - Getting to know the academics that stay next door (but take note this must be a purely voluntary basis)
-1. ROOT Cove
-    - Easter eggs/ hunt the mouse to get people to congregate at this designate student space
-    - Challenges people can try
+
 1. ! SAC usage and activities. Also to understand how one can [utilise](https://github.com/OpenSUTD/SAC-student-rules) it
 1. Unified Fifth Row calendar for tryouts
 1. One-stop Telegram message group for information
 1. Human Library
-1. Lightning Talks targeted at sharing the Fifth Row experiences
-1. After-party - Open Mic
+
 
 ## Theory of Change
 ![Key framework driving our theory of change](https://i.imgur.com/qULvsIt.png)
@@ -145,8 +121,30 @@ Taken from [A novel approach to onboarding](https://blog.hiri.com/a-novel-approa
 
 
 ---
-
+# Proposed Activities 2019
+## ! Stakeholder buy-in list
+1. Housing/HG/RLC for hostel access and booking of spaces
+1. Calendar team that ROOT Communications is trying out
+1. Indivudal research labs for access, tour guiding
+2. Pillar reps for introduction to pillar life
+3. Bands for open-mic
+4. Location for open-mic (eg. Mont Calzone/ Crooked Cooks)
+5. DSBJ app devs
+6. Candidates for lightning talks
+    - GEXP
+    - ALP
+    - GLP
+    - UROP
+    - Hackathons
+    `need to shortlist`
 # Review
+
+## Discovery Week 2020
+
+## Discovery Week 2019 
+
+
+
 ## Discovery Week 2018
 ![Discovery Week Timetable](https://i.imgur.com/ZNAXU9t.jpg)
  - Students lost interest quite quickly as they had no mental compass as to what events would be useful

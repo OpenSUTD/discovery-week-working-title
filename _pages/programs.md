@@ -16,6 +16,7 @@ We'd like to support Fifth Rows in reaching out to the Freshmores but also to he
 
 Have speakers act as ‘books’ and you can ‘borrow’ their time. Execution-wise, have students ‘borrow’ the books for a fixed timeslot and rotate every hour. Possibly just have the professors at their office/ location of their choice and students can come by. Think of it as an informal way to Discover the people behind SUTD. Previous [human libraries](https://docs.google.com/document/d/1UvHSNurYQyQ7Fpd3hj5LVKAsEBCkx3GNzvsFQXgqCRw/edit#) held at SUTD saw not just Professors but also researchers and students being our books.
 
+Not only you get to consult the wise, you'll have the chance to meet energetic Interest Groups' leaders and other outstanding Projects that our SUTDents like to show-off. ;) 
 *We need coordinators for this event!*
 
 
@@ -31,4 +32,5 @@ All the information you need about Housing, get to know your House Guardian, and
 
 Yes you heard that right! We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class. Also we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.
 
+**AMA session**
 

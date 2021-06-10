@@ -26,7 +26,7 @@ Showcase the potential of UROPs and taking up research projects in SUTD, similar
 # But what does this mean?
 We will
 1. **Support** Fifth Rows by providing a budget for you to hold workshops that cater to Freshmores. There's just a small catch, do follow the template we provide to facilitate preparing the event schedule.
-2. **Organise** community sesions in the form of a Human Library, Lightning Talks and Housing events.
+2. **Organise** community sesions in the form of a Human Library, and Housing events.
 3. **Bring together** the larger graduate and research community in the SUTD ecosystem through tours and meet ups.
 4. **Provide** a consistent visual branding throughout the event.
 

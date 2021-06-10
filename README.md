@@ -1,7 +1,7 @@
 # DiscoverSUTD 2021
 **Decentralised planning for the Freshmore experience**
 
-Check out [this page](https://open.sutd.dev/discovery-week-working-title/) for all the in depth details. You will even find out meeting minutes there! (it's under "Posts")
+Check out [this page](https://castlemas.github.io/DiscoverSUTD-2021/) for all the in depth details. You will even find out meeting minutes there! (it's under "Posts")
 
 Do let us know if you can think of a better name for this event! That's why it's still a working title.
 
@@ -24,7 +24,7 @@ In general the workflow is:
 
 
 ## Timeline
-This is to cater to Fifth row leaders when they are planning. The detailed proposal is [here](https://open.sutd.dev/discovery-week-working-title/proposal_details/)
+This is to cater to Fifth row leaders when they are planning. The detailed proposal is [here](https://docs.google.com/document/d/1R3vDbL2QLzgfk5rgFNvR9veKKkE80r9CtSYmdqAeu1M/edit)
 
 |Week|Activities|
 |--|--|
@@ -38,6 +38,13 @@ This is to cater to Fifth row leaders when they are planning. The detailed propo
 
 
 ## Who's Who:
+__DiscoverSUTD-2021__
+
+Emily Law (@jhonbook123), Muhammad Hariz Bin Roslan (@wtvml), Clement Loh (@ClementLohCK), Joseph Low (@Jolow)
+
+__DiscoverSUTD-2020 Team__
+
+__DiscoverSUTD-2019 Team__
 
 DiscoverSUTD details: Hum Qing Ze ([email](mailto:qingze_hum@mymail.sutd.edu.sg))
 
@@ -46,3 +53,4 @@ OpenSUTD: Timothy Liu ([email](mailto:timothy_liu@mymail.sutd.edu.sg)); Joel Hua
 Open Regulation: Lee Gui An ([email](mailto:guian_lee@mymail.sutd.edu.sg))
 
 SAC rep coordination: Tay Kay Jin ([email](mailto:kayjin_tay@mymail.sutd.edu.sg))
+
