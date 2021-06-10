@@ -1,6 +1,6 @@
 DiscoverSUTD 2021
 ===
-Previous planning [document](https://docs.google.com/document/d/1R3vDbL2QLzgfk5rgFNvR9veKKkE80r9CtSYmdqAeu1M/edit#heading=h.eh5cqbmba3eb)
+Previous planning [document](https://docs.google.com/document/d/1A_bl4-s3VXOBQe-K85AHm5zBOxTaml8Gq43lHRpIMx8/edit#heading=h.w41sy5e44bpr)
 
 |Disclaimer|
 |---|
