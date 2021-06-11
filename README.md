@@ -10,7 +10,7 @@ DiscoverSUTD  is a 3 week long introduction to the SUTD community. It will last 
 
 It is currently a working title because the name is still in the midst of being decided. Afterall, it’s a 3 week event and no longer just one week!
 
-DiscoverSUTD is organised by the team behind OpenSUTD.
+DiscoverSUTD is organised by the team behind [OpenSUTD](https://opensutd.org/).
 
 OpenSUTD is modelled after the idea of an Open Organisation, and we have community standards for all members to abide by in order to ensure a good enviroment for members to learn and contribute effectively.
 

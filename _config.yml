@@ -22,7 +22,7 @@ baseurl: '/DiscoverSUTD-2021'
 # Author/Organization info to be displayed in the templates
 author:
   name: OpenSUTD
-  url: https://github.com/OpenSUTD
+  url: https://opensutd.org/
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:

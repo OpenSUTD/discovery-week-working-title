@@ -1,7 +1,7 @@
 # What is this?
 DiscoverSUTD  is a 3 week long introduction to the SUTD community. It will last from 13 September 2021 - 30 September 2021.
 
-DiscoverSUTD is organised by the team behind [OpenSUTD](https://github.com/OpenSUTD).
+DiscoverSUTD was started by the team behind [OpenSUTD](https://opensutd.org/).
 
 OpenSUTD is modelled after the idea of an Open Organisation, and we have community standards for all members to abide by in order to ensure a good enviroment for members to learn and contribute effectively.
 ```
