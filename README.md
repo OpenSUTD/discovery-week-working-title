@@ -48,9 +48,14 @@ Clement Loh ([ Telegram ](https://t.me/ClementLohCK)),
 
 Joseph Low ([ Telegram ](https://t.me/Jolow))
 
-
-
 __DiscoverSUTD-2020 Team__
+
+- [Amelia Natasha Yeo Wen Ting](mailto:amelia_yeo@mymail.sutd.edu.sg)
+- [Chua Jia Wei](mailto:jiawei_chua@mymail.sutd.edu.sg)
+- [James Raphael Tiovalen](mailto:james_raphael@mymail.sutd.edu.sg)
+- [Kenneth Chin Choon Hean](mailto:kenneth_chin@mymail.sutd.edu.sg)
+- [Seah Shien Maryann](mailto:maryann_seah@mymail.sutd.edu.sg)
+- [Shoham Chakraborty](mailto:shoham_chakraborty@mymail.sutd.edu.sg)
 
 __DiscoverSUTD-2019 Team__
 
